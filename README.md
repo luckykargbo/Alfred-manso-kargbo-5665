@@ -1,14 +1,12 @@
 # Alfred-manso-kargbo-5665
 web design assignment 1 for sketch and wireframe
 
-![WhatsApp Image 2025-11-01 at 20 43 16_7bf2ba08](https://github.com/user-attachments/assets/016f2bb8-1da3-4f86-b614-11127eca638f)
 ![WhatsApp Image 2025-11-01 at 11 21 14_2e90c7f3](https://github.com/user-attachments/assets/c156c71a-6081-4dc2-bf86-4d8a51268e88)
+![WhatsApp Image 2025-11-01 at 20 43 16_7bf2ba08](https://github.com/user-attachments/assets/016f2bb8-1da3-4f86-b614-11127eca638f)
 
 
-
-
-![W![WhatsApp Image 2025-11-01 at 11 21 14_3ea34c02](https://github.com/user-attachments/assets/843546d9-6601-4147-9e7a-1f01f9fb1de1)
 ![WhatsApp Image 2025-11-01 at 11 21 14_2c4a3514](https://github.com/user-attachments/assets/2de49a13-d2e7-4acb-9cef-5460b1bfb1ec)
+![W![WhatsApp Image 2025-11-01 at 11 21 14_3ea34c02](https://github.com/user-attachments/assets/843546d9-6601-4147-9e7a-1f01f9fb1de1)
 
 
 ![WhatsApp Image 2025-11-01 at 11 21 15_a936ccb4](https://github.com/user-attachments/assets/8461c618-2c96-42ee-83e0-3e464a5ffd1e)
