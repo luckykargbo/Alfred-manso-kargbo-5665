@@ -16,5 +16,7 @@ web design assignment 1 for sketch and wireframe
 ![WhatsApp Image 2025-11-01 at 11 21 15_59174b97](https://github.com/user-attachments/assets/0e4009cb-39f4-4a0b-a3b8-53cfb43d67cf)
 ![WhatsApp Image 2025-11-01 at 11 21 15_04f563c6](https://github.com/user-attachments/assets/af2f9e9b-29c6-421b-b9b4-37010153a6f7)
 
-![WhatsApp Image 2025-11-01 at 19 41 04_e23fb3e5](https://github.com/user-attachments/assets/9d10532c-b008-41ae-9a02-8a4bf7c9a6f0)
-![WhatsApp Image 2025-11-01 at 11 21 15_b16e3192](https://github.com/user-attachments/assets/78805814-ff1e-4c8a-bb72-6693407e4258)
+![gzr](https://github.com/user-attachments/assets/4a9aa7fe-a445-4a79-81f0-084a9bcd5212)
+
+![gzr](https://github.com/user-attachments/assets/f5d8a6ab-bc75-4fad-a231-6ddc74a6d8f8)
+
