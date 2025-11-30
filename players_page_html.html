@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Our Players - Football Agency Sierra Leone</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        /* Additional styles for player images */
+        .player-photo {
+            width: 200px;
+            height: 200px;
+            border-radius: 50%;
+            margin: 0 auto 1rem;
+            overflow: hidden;
+            border: 4px solid #1e3a8a;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+        }
+
+        .player-photo img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        .player-photo-placeholder {
+            width: 200px;
+            height: 200px;
+            border-radius: 50%;
+            margin: 0 auto 1rem;
+            background: linear-gradient(135deg, #1e3a8a, #10b981);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 3rem;
+            color: #ffffff;
+            font-weight: bold;
+            border: 4px solid #1e3a8a;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav class="container">
+            <div class="logo">
+                <h1>⚽ Football Agency SL</h1>
+                <p>Excellence in Football Management</p>
+            </div>
+            <button class="menu-toggle" onclick="toggleMenu()">☰</button>
+            <ul class="nav-links" id="navLinks">
+                 <li><a href="home_page_html.html">Home</a></li>
+                <li><a href="players_page_html.html">Players</a></li>
+                <li><a href="matches_page_html.html">Matches</a></li>
+                <li><a href="about_page_html.html">About Us</a></li>
+                <li><a href="contact_page_html.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <div class="container">
+            <h2>Our Talented Players</h2>
+            <p>Meet the stars representing Sierra Leone</p>
+        </div>
+    </section>
+
+    <main class="container">
+        <section>
+            <h2 class="section-title">Professional Players</h2>
+            <div class="grid grid-3">
+                <!-- Player 1: Mohamed Kamara -->
+                <div class="card player-card">
+                    <div class="player-photo">
+                        <img src="img/player1.jpg" alt="Mohamed Kamara">
+                    </div>
+                    <div class="player-info">
+                        <h3>Mohamed Kamara</h3>
+                        <p class="player-position">Striker</p>
+                        <p>Age: 24 | Height: 1.82m</p>
+                        <div class="player-stats">
+                            <span>⚽ 45 Goals</span>
+                            <span>🎯 12 Assists</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Player 2: Abdul Bangura -->
+                <div class="card player-card">
+                    <div class="player-photo">
+                        <img src="img/player2 (1).jpg" alt="Abdul Bangura">
+                    </div>
+                    <div class="player-info">
+                        <h3>Abdul Bangura</h3>
+                        <p class="player-position">Midfielder</p>
+                        <p>Age: 22 | Height: 1.75m</p>
+                        <div class="player-stats">
+                            <span>⚽ 18 Goals</span>
+                            <span>🎯 28 Assists</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Player 3: Ibrahim Koroma -->
+                <div class="card player-card">
+                    <div class="player-photo">
+                        <img src="img/player4.jpg" alt="Ibrahim Koroma">
+                    </div>
+                    <div class="player-info">
+                        <h3>Ibrahim Koroma</h3>
+                        <p class="player-position">Defender</p>
+                        <p>Age: 26 | Height: 1.88m</p>
+                        <div class="player-stats">
+                            <span>🛡️ 120 Tackles</span>
+                            <span>⭐ 8 Clean Sheets</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Player 4: Samuel Sesay -->
+                <div class="card player-card">
+                    <div class="player-photo">
+                        <img src="img/1764437088.png" alt="Samuel Sesay">
+                    </div>
+                    <div class="player-info">
+                        <h3>Samuel Sesay</h3>
+                        <p class="player-position">Goalkeeper</p>
+                        <p>Age: 28 | Height: 1.90m</p>
+                        <div class="player-stats">
+                            <span>🧤 85 Saves</span>
+                            <span>⭐ 15 Clean Sheets</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Player 5: Joseph Mansaray -->
+                <div class="card player-card">
+                    <div class="player-photo">
+                        <img src="img/ih.png" alt="Joseph Mansaray">
+                    </div>
+                    <div class="player-info">
+                        <h3>Joseph Mansaray</h3>
+                        <p class="player-position">Winger</p>
+                        <p>Age: 21 | Height: 1.78m</p>
+                        <div class="player-stats">
+                            <span>⚽ 22 Goals</span>
+                            <span>🎯 35 Assists</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Player 6: Foday Kamara -->
+                <div class="card player-card">
+                    <div class="player-photo">
+                        <img src="img/yy.png" alt="Foday Kamara">
+                    </div>
+                    <div class="player-info">
+                        <h3>Foday Kamara</h3>
+                        <p class="player-position">Midfielder</p>
+                        <p>Age: 25 | Height: 1.80m</p>
+                        <div class="player-stats">
+                            <span>⚽ 15 Goals</span>
+                            <span>🎯 20 Assists</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <h2 class="section-title">Youth Academy Players</h2>
+            <div class="grid grid-3">
+                <!-- Youth Player 1: Alimamy Jalloh -->
+                <div class="card player-card">
+                    <div class="player-photo">
+                        <img src="img/WhatsApp Image 2025-11-30 at 11.49.46_2360227b.jpg" alt="Alimamy Jalloh">
+                    </div>
+                    <div class="player-info">
+                        <h3>Alimamy Jalloh</h3>
+                        <p class="player-position">Striker</p>
+                        <p>Age: 18 | Height: 1.76m</p>
+                        <div class="player-stats">
+                            <span>⚽ 32 Goals</span>
+                            <span>🏆 Youth League</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Youth Player 2: Tamba Bangura -->
+                <div class="card player-card">
+                    <div class="player-photo">
+                        <img src="img/uu.png" alt="Tamba Bangura">
+                    </div>
+                    <div class="player-info">
+                        <h3>Tamba Bangura</h3>
+                        <p class="player-position">Midfielder</p>
+                        <p>Age: 17 | Height: 1.72m</p>
+                        <div class="player-stats">
+                            <span>⚽ 12 Goals</span>
+                            <span>🎯 18 Assists</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Youth Player 3: Musa Fofanah -->
+                <div class="card player-card">
+                    <div class="player-photo">
+                        <img src="img/player3.jpg" alt="Musa Fofanah">
+                    </div>
+                    <div class="player-info">
+                        <h3>Musa Fofanah</h3>
+                        <p class="player-position">Defender</p>
+                        <p>Age: 19 | Height: 1.84m</p>
+                        <div class="player-stats">
+                            <span>🛡️ 85 Tackles</span>
+                            <span>⭐ Rising Star</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Youth Player 4: Kadijatu Turay -->
+                <div class="card player-card">
+                    <div class="player-photo">
+                        <img src="img/j.jpg" alt="Kadijatu Turay">
+                    </div>
+                    <div class="player-info">
+                        <h3>Kadijatu Turay</h3>
+                        <p class="player-position">Forward</p>
+                        <p>Age: 17 | Height: 1.68m</p>
+                        <div class="player-stats">
+                            <span>⚽ 28 Goals</span>
+                            <span>🏆 Women's League</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Youth Player 5: Hawa Sesay -->
+                <div class="card player-card">
+                    <div class="player-photo">
+                        <img src="img/WhatsApp Image 2025-11-29 at 20.41.38_f5322e90.jpg" alt="Hawa Sesay">
+                    </div>
+                    <div class="player-info">
+                        <h3>Hawa Sesay</h3>
+                        <p class="player-position">Midfielder</p>
+                        <p>Age: 18 | Height: 1.70m</p>
+                        <div class="player-stats">
+                            <span>⚽ 15 Goals</span>
+                            <span>🎯 22 Assists</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Youth Player 6: Sorie Kamara -->
+                <div class="card player-card">
+                    <div class="player-photo">
+                        <img src="img/oys.png" alt="Sorie Kamara">
+                    </div>
+                    <div class="player-info">
+                        <h3>Sorie Kamara</h3>
+                        <p class="player-position">Goalkeeper</p>
+                        <p>Age: 19 | Height: 1.87m</p>
+                        <div class="player-stats">
+                            <span>🧤 62 Saves</span>
+                            <span>⭐ 10 Clean Sheets</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <div class="card" style="text-align: center; padding: 3rem;">
+                <h3>Interested in Joining Our Agency?</h3>
+                <p style="margin: 1rem 0;">We're always looking for talented players to represent. Contact us to schedule a trial.</p>
+                <a href="contact_page_html.html" class="btn">Get In Touch</a>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>Football Agency SL</h3>
+                    <p>Leading football agency in Sierra Leone, dedicated to developing and managing football talent.</p>
+                </div>
+                <div class="footer-section">
+                    <h3>Quick Links</h3>
+                    <ul>
+                        <li><a href="home_page_html.html">Home</a></li>
+                        <li><a href="players_page_html.html">Players</a></li>
+                        <li><a href="matches_page_html.html">Matches</a></li>
+                        <li><a href="about_page_html.html">About Us</a></li>
+                        <li><a href="contact_page_html.html">Contact</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h3>Contact Info</h3>
+                    <p>📍 2 Hill Cut Road, Freetown, Sierra Leone</p>
+                    <p>📞 +232 76 908 602</p>
+                    <p>✉️ luckyfc@gmail.com</p>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 Football Agency Sierra Leone. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        function toggleMenu() {
+            const navLinks = document.getElementById('navLinks');
+            navLinks.classList.toggle('active');
+        }
+    </script>
+</body>
+</html>
